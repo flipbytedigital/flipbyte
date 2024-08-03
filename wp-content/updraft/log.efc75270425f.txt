@@ -1,0 +1,427 @@
+0000.000 (0) Opened log file at time: Sat, 03 Aug 2024 13:33:05 +0000 on https://flipbytedigital.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.4 WP: 6.6.1 PHP: 8.2.21 (apache2handler, Linux 24e2b3aa52b6 5.15.0-116-generic #126-Ubuntu SMP Mon Jul 1 10:14:24 UTC 2024 x86_64) MySQL: 9.0.0 (max packet size=67108864) WPLANG: id_ID Server: Apache/2.4.59 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.9M | 8M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 2497.9 MB
+0000.008 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.011 (0) Semaphore (fd, wp_options) being initialised
+0000.017 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.021 (0) Set semaphore last lock (fd) time to 2024-08-03 13:33:05
+0000.023 (0) Semaphore lock (fd) complete
+0000.029 (0) Backup run: resumption=0, nonce=efc75270425f, file_nonce=efc75270425f begun at=1722691985 (0s ago), job type=backup
+0000.031 (0) Scheduling a resumption (1) after 300 seconds (1722692285) in case this run gets aborted
+0000.058 (0) Checking if we have a zip executable available
+0000.063 (0) Creation of backups of directories: beginning
+0000.068 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.184 (0) Total entities for the zip file: 1105 directories, 5526 files (0 skipped as non-modified), 123.5 MB
+0000.192 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.197 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.202 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.207 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.212 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.216 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.221 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.226 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.231 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.236 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.238 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.6 MB, 5526 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.222 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1100 files added (on-disk size: 4448 KB)
+0002.226 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1200 files added (on-disk size: 4448 KB)
+0002.230 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1300 files added (on-disk size: 4448 KB)
+0002.235 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1400 files added (on-disk size: 4448 KB)
+0002.240 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1500 files added (on-disk size: 4448 KB)
+0002.245 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1600 files added (on-disk size: 4448 KB)
+0002.250 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1700 files added (on-disk size: 4448 KB)
+0002.255 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1800 files added (on-disk size: 4448 KB)
+0002.259 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 1900 files added (on-disk size: 4448 KB)
+0002.265 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2000 files added (on-disk size: 4448 KB)
+0002.266 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11 MB, 5526 files batched, 1001 (2002) added so far); re-opening (prior size: 4448 KB)
+0003.276 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2100 files added (on-disk size: 8269.4 KB)
+0003.281 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2200 files added (on-disk size: 8269.4 KB)
+0003.285 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2300 files added (on-disk size: 8269.4 KB)
+0003.290 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2400 files added (on-disk size: 8269.4 KB)
+0003.294 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2500 files added (on-disk size: 8269.4 KB)
+0003.299 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2600 files added (on-disk size: 8269.4 KB)
+0003.303 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2700 files added (on-disk size: 8269.4 KB)
+0003.306 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 5526 files batched, 736 (2738) added so far); re-opening (prior size: 8269.4 KB)
+0005.340 (0) A useful amount of data was added after this amount of zip processing: 2.8 s (normalised: 2.8 s, rate: 9245.9 KB/s)
+0005.342 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.7758119106293, normalised_time=2.7688049784747, max_time=5.3409469127655, data points known=1, old_max_bytes=26214400, new_max_bytes=56806601)
+0005.367 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2800 files added (on-disk size: 17320.3 KB)
+0005.372 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 2900 files added (on-disk size: 17320.3 KB)
+0005.376 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3000 files added (on-disk size: 17320.3 KB)
+0005.381 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3100 files added (on-disk size: 17320.3 KB)
+0005.386 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3200 files added (on-disk size: 17320.3 KB)
+0005.390 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3300 files added (on-disk size: 17320.3 KB)
+0005.395 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3400 files added (on-disk size: 17320.3 KB)
+0005.400 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3500 files added (on-disk size: 17320.3 KB)
+0005.405 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3600 files added (on-disk size: 17320.3 KB)
+0005.411 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3700 files added (on-disk size: 17320.3 KB)
+0005.414 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.9 MB, 5526 files batched, 1001 (3739) added so far); re-opening (prior size: 17320.3 KB)
+0007.435 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3800 files added (on-disk size: 22149.5 KB)
+0007.441 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 3900 files added (on-disk size: 22149.5 KB)
+0007.446 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4000 files added (on-disk size: 22149.5 KB)
+0007.451 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4100 files added (on-disk size: 22149.5 KB)
+0007.457 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4200 files added (on-disk size: 22149.5 KB)
+0007.462 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4300 files added (on-disk size: 22149.5 KB)
+0007.466 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4400 files added (on-disk size: 22149.5 KB)
+0007.471 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4500 files added (on-disk size: 22149.5 KB)
+0007.476 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4600 files added (on-disk size: 22149.5 KB)
+0007.481 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4700 files added (on-disk size: 22149.5 KB)
+0007.485 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (45.7 MB, 5526 files batched, 1001 (4740) added so far); re-opening (prior size: 22149.5 KB)
+0010.895 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4800 files added (on-disk size: 33144.7 KB)
+0010.900 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 4900 files added (on-disk size: 33144.7 KB)
+0010.905 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5000 files added (on-disk size: 33144.7 KB)
+0010.910 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5100 files added (on-disk size: 33144.7 KB)
+0010.914 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5200 files added (on-disk size: 33144.7 KB)
+0010.919 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5300 files added (on-disk size: 33144.7 KB)
+0010.923 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5400 files added (on-disk size: 33144.7 KB)
+0010.928 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.tmp: 5500 files added (on-disk size: 33144.7 KB)
+0012.202 (0) Creating zip file manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.list-temp.tmp)
+0012.218 (0) Successfully created zip file manifest (size: 467283)
+0012.606 (0) Created plugins zip (0) - 36257.9 KB in 12.5 s (2892.5 KB/s) (sha1: 4bbb24e9042491f98a01fc9e6dc10121f7daa7c1, sha256: 9fb232b267634c0aa8e8d40f6fc896108e8f3120d676cf361719dbc7830440c5)
+0012.615 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0012.617 (0) No remote despatch: user chose no remote backup service
+0012.618 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip
+0012.621 (0) Deleting zip manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip.list.tmp)
+0012.625 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0012.627 (0) Number of backup sets in history: 0; groups (db): 1
+0012.628 (0) Number of backup sets in history: 0; groups (files): 1
+0012.629 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0012.637 (0) Beginning creation of dump of themes (split every: 400 MB)
+0012.739 (0) Total entities for the zip file: 535 directories, 2405 files (0 skipped as non-modified), 30.8 MB
+0012.745 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0012.749 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0012.754 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0012.759 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0012.764 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0012.769 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0012.773 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0012.778 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0012.782 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0012.786 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0012.788 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.3 MB, 2405 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0014.370 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1100 files added (on-disk size: 14261 KB)
+0014.375 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1200 files added (on-disk size: 14261 KB)
+0014.379 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1300 files added (on-disk size: 14261 KB)
+0014.385 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1400 files added (on-disk size: 14261 KB)
+0014.390 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1500 files added (on-disk size: 14261 KB)
+0014.394 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1600 files added (on-disk size: 14261 KB)
+0014.399 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1700 files added (on-disk size: 14261 KB)
+0014.404 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1800 files added (on-disk size: 14261 KB)
+0014.415 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 1900 files added (on-disk size: 14261 KB)
+0014.420 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 2000 files added (on-disk size: 14261 KB)
+0014.421 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.6 MB, 2405 files batched, 1001 (2002) added so far); re-opening (prior size: 14261 KB)
+0014.947 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 2100 files added (on-disk size: 15908.3 KB)
+0014.953 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 2200 files added (on-disk size: 15908.3 KB)
+0014.958 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 2300 files added (on-disk size: 15908.3 KB)
+0014.962 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.tmp: 2400 files added (on-disk size: 15908.3 KB)
+0015.475 (0) Creating zip file manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.list-temp.tmp)
+0015.485 (0) Successfully created zip file manifest (size: 199634)
+0015.700 (0) Created themes zip (0) - 18972.7 KB in 3.1 s (6201.2 KB/s) (sha1: 92d5de2a09bf52760aa1607aa5b7a5cbfbee47ab, sha256: 26fe657078c1243870f97bf0ca626634906eb713a81424db0a593d58eb0902dd)
+0015.707 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0015.708 (0) No remote despatch: user chose no remote backup service
+0015.710 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip
+0015.713 (0) Deleting zip manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip.list.tmp)
+0015.716 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0015.719 (0) Number of backup sets in history: 0; groups (db): 1
+0015.720 (0) Number of backup sets in history: 0; groups (files): 1
+0015.722 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0015.732 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0015.733 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0015.735 (0) finding files: wpforms: adding to list (1)
+0015.736 (0) finding files: elementor: adding to list (2)
+0015.738 (0) finding files: 2021: adding to list (3)
+0015.739 (0) finding files: aios: adding to list (4)
+0015.741 (0) finding files: blocksy: adding to list (5)
+0015.742 (0) finding files: rank-math: adding to list (6)
+0015.744 (0) finding files: 2024: adding to list (7)
+0015.745 (0) finding files: 2022: adding to list (8)
+0015.747 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0015.758 (0) Total entities for the zip file: 18 directories, 213 files (0 skipped as non-modified), 17.6 MB
+0015.763 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.767 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.048 (0) Creating zip file manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip.list-temp.tmp)
+0016.051 (0) Successfully created zip file manifest (size: 12386)
+0016.230 (0) Created uploads zip (0) - 16402.1 KB in 0.5 s (34226.6 KB/s) (sha1: 1a4b0ef765d9eac3f17137d58cc184340acb0c7c, sha256: ce23cc005e71268501e3e2445418e1e1b7adf5fd2c9a23e5e34158a6d2bf92b9)
+0016.235 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.236 (0) No remote despatch: user chose no remote backup service
+0016.238 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip
+0016.240 (0) Deleting zip manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip.list.tmp)
+0016.243 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.245 (0) Number of backup sets in history: 0; groups (db): 1
+0016.247 (0) Number of backup sets in history: 0; groups (files): 1
+0016.248 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0016.255 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0016.259 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0016.263 (0) Creating zip file manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-mu-plugins.zip.list-temp.tmp)
+0016.264 (0) Successfully created zip file manifest (size: 71)
+0016.271 (0) Created mu-plugins zip (0) - 1.8 KB in 0 s (145.2 KB/s) (sha1: 579cded220d221ad93668165d03bc8644694d267, sha256: f78b5f5f94aeb485f5c7ddc75b22bc25fdf5fdbe90cd68917c7fc3a4719870bf)
+0016.276 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.277 (0) No remote despatch: user chose no remote backup service
+0016.279 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-mu-plugins.zip
+0016.282 (0) Deleting zip manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-mu-plugins.zip.list.tmp)
+0016.285 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.286 (0) Number of backup sets in history: 0; groups (db): 1
+0016.288 (0) Number of backup sets in history: 0; groups (files): 1
+0016.289 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0016.296 (0) Beginning backup of other directories found in the content directory (index: 0)
+0016.298 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0016.299 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0016.300 (0) finding files: themes: skipping: this is the themes directory
+0016.302 (0) finding files: uploads: skipping: this is the uploads directory
+0016.303 (0) finding files: aiowps_backups: skipping: excluded by options (glob)
+0016.304 (0) finding files: upgrade: skipping: excluded by options
+0016.306 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0016.307 (0) finding files: plugins: skipping: this is the plugins directory
+0016.309 (0) finding files: index.php: adding to list (1)
+0016.310 (0) finding files: languages: adding to list (2)
+0016.311 (0) finding files: updraft: skipping: this is the updraft directory
+0016.313 (0) finding files: cache: skipping: excluded by options
+0016.314 (0) finding files: upgrade-temp-backup: adding to list (3)
+0016.323 (0) Total entities for the zip file: 5 directories, 240 files (0 skipped as non-modified), 4.8 MB
+0016.328 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0016.333 (0) Zip: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0016.855 (0) Creating zip file manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip.list-temp.tmp)
+0016.857 (0) Successfully created zip file manifest (size: 18994)
+0016.879 (0) Created others zip (0) - 1453.5 KB in 0.6 s (2591.3 KB/s) (sha1: 67aeefabd6a30c1c6e2ba86e29b261a32926f69f, sha256: 8c62cbf50b83d7a3e136f4bdf5d036291cf50e8c286e95883393e66e181eb860)
+0016.885 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0016.886 (0) No remote despatch: user chose no remote backup service
+0016.888 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip
+0016.891 (0) Deleting zip manifest (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip.list.tmp)
+0016.894 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0016.895 (0) Number of backup sets in history: 0; groups (db): 1
+0016.896 (0) Number of backup sets in history: 0; groups (files): 1
+0016.898 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0016.907 (0) Saving backup status to database (elements: 10)
+0016.911 (0) Beginning creation of database dump (WordPress DB)
+0016.912 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0016.929 (0) Table wp_options: Total expected rows (via COUNT): 542
+0017.072 (0) Table wp_options: Rows added in this batch (next record: 4814): 538 (uncompressed bytes in this segment=2809249) in 0.15 seconds
+0017.081 (0) Table wp_options: finishing file(s) (2, 610.1 KB)
+0017.088 (0) Table wp_users: Total expected rows (via COUNT): 1
+0017.090 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.093 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1383) in 0.01 seconds
+0017.098 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0017.107 (0) Table wp_usermeta: Total expected rows (via COUNT): 34
+0017.108 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.113 (0) Table wp_usermeta: Rows added in this batch (next record: 35): 34 (uncompressed bytes in this segment=86221) in 0.01 seconds
+0017.121 (0) Table wp_usermeta: finishing file(s) (2, 8.2 KB)
+0017.130 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 45
+0017.131 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.135 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 578): 45 (uncompressed bytes in this segment=18906) in 0.01 seconds
+0017.141 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.4 KB)
+0017.147 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0017.151 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.01 seconds
+0017.158 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0017.164 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0017.165 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.169 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=737) in 0.01 seconds
+0017.174 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0017.180 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 117
+0017.181 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.186 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 1601): 117 (uncompressed bytes in this segment=10778) in 0.01 seconds
+0017.191 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.7 KB)
+0017.199 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0017.203 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.01 seconds
+0017.209 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0017.215 (0) Table wp_comments: Total expected rows (via COUNT): 2
+0017.218 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.221 (0) Table wp_comments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2536) in 0.01 seconds
+0017.226 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0017.233 (0) Table wp_links: Total expected rows (via COUNT): 0
+0017.237 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.01 seconds
+0017.244 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0017.258 (0) Table wp_postmeta: Total expected rows (approximate): 1191
+0017.365 (0) Table wp_postmeta: Rows added in this batch (next record: 1635): 1193 (uncompressed bytes in this segment=4043399) in 0.11 seconds
+0017.373 (0) Table wp_postmeta: finishing file(s) (2, 324.2 KB)
+0017.387 (0) Table wp_posts: Total expected rows (via COUNT): 226
+0017.389 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.475 (0) Table wp_posts: Rows added in this batch (next record: 1566): 226 (uncompressed bytes in this segment=2719587) in 0.10 seconds
+0017.484 (0) Table wp_posts: finishing file(s) (2, 341.5 KB)
+0017.491 (0) Table wp_term_relationships: Total expected rows (approximate): 27
+0017.495 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 28 (uncompressed bytes in this segment=1064) in 0.01 seconds
+0017.502 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0017.510 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 11
+0017.511 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.517 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1252) in 0.01 seconds
+0017.526 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0017.535 (0) Table wp_termmeta: Total expected rows (via COUNT): 10
+0017.536 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.539 (0) Table wp_termmeta: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1154) in 0.01 seconds
+0017.545 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0017.554 (0) Table wp_terms: Total expected rows (via COUNT): 11
+0017.556 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.558 (0) Table wp_terms: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=1066) in 0.01 seconds
+0017.563 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0017.575 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 22
+0017.576 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.582 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 35): 22 (uncompressed bytes in this segment=104088) in 0.01 seconds
+0017.591 (0) Table wp_aioseo_cache: finishing file(s) (2, 20.3 KB)
+0017.597 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Total expected rows (via COUNT): 0
+0017.603 (0) Table wp_aioseo_crawl_cleanup_blocked_args: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1039) in 0.01 seconds
+0017.608 (0) Table wp_aioseo_crawl_cleanup_blocked_args: finishing file(s) (2, 0.4 KB)
+0017.614 (0) Table wp_aioseo_crawl_cleanup_logs: Total expected rows (via COUNT): 0
+0017.617 (0) Table wp_aioseo_crawl_cleanup_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=875) in 0.01 seconds
+0017.625 (0) Table wp_aioseo_crawl_cleanup_logs: finishing file(s) (2, 0.4 KB)
+0017.635 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 1
+0017.637 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.641 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: 3): 1 (uncompressed bytes in this segment=9492) in 0.01 seconds
+0017.653 (0) Table wp_aioseo_notifications: finishing file(s) (2, 6.3 KB)
+0017.663 (0) Table wp_aioseo_posts: Total expected rows (via COUNT): 74
+0017.664 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.673 (0) Table wp_aioseo_posts: Rows added in this batch (next record: 74): 74 (uncompressed bytes in this segment=70531) in 0.02 seconds
+0017.681 (0) Table wp_aioseo_posts: finishing file(s) (2, 3.3 KB)
+0017.689 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0017.693 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=525) in 0.01 seconds
+0017.699 (0) Table wp_e_events: finishing file(s) (2, 0.3 KB)
+0017.709 (0) Table wp_rank_math_analytics_inspections: Total expected rows (via COUNT): 0
+0017.711 (0) Table wp_rank_math_analytics_inspections: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1840) in 0.01 seconds
+0017.721 (0) Table wp_rank_math_analytics_inspections: finishing file(s) (2, 0.6 KB)
+0017.729 (0) Table wp_rank_math_analytics_objects: Total expected rows (via COUNT): 11
+0017.731 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.736 (0) Table wp_rank_math_analytics_objects: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=3492) in 0.01 seconds
+0017.743 (0) Table wp_rank_math_analytics_objects: finishing file(s) (2, 1.1 KB)
+0017.750 (0) Table wp_rank_math_internal_links: Total expected rows (via COUNT): 0
+0017.754 (0) Table wp_rank_math_internal_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=743) in 0.01 seconds
+0017.760 (0) Table wp_rank_math_internal_links: finishing file(s) (2, 0.4 KB)
+0017.769 (0) Table wp_rank_math_internal_meta: Total expected rows (via COUNT): 0
+0017.772 (0) Table wp_rank_math_internal_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=637) in 0.01 seconds
+0017.777 (0) Table wp_rank_math_internal_meta: finishing file(s) (2, 0.3 KB)
+0017.785 (0) Table wp_slim_seo_404: Total expected rows (via COUNT): 8
+0017.787 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.791 (0) Table wp_slim_seo_404: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=1385) in 0.01 seconds
+0017.796 (0) Table wp_slim_seo_404: finishing file(s) (2, 0.7 KB)
+0017.808 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0017.812 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=736) in 0.01 seconds
+0017.819 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0017.827 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0017.831 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.01 seconds
+0017.839 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0017.845 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0017.848 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1958) in 0.01 seconds
+0017.855 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0017.865 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0017.867 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.871 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 8): 4 (uncompressed bytes in this segment=970) in 0.01 seconds
+0017.878 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0017.889 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 28
+0017.890 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.895 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=20240) in 0.01 seconds
+0017.903 (0) Table wp_yoast_indexable: finishing file(s) (2, 3.7 KB)
+0017.909 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 23
+0017.913 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 23 (uncompressed bytes in this segment=1146) in 0.01 seconds
+0017.918 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.5 KB)
+0017.924 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0017.925 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.930 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1261) in 0.01 seconds
+0017.937 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0017.943 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0017.947 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.01 seconds
+0017.953 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0017.959 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 45
+0017.960 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0017.972 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 45): 45 (uncompressed bytes in this segment=7729) in 0.02 seconds
+0017.980 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.5 KB)
+0017.982 (0) PHP event: code E_WARNING: filemtime(): stat failed for /var/www/html/wp-content/updraft/backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db.gz (line 1925, wp-content/plugins/updraftplus/backup.php)
+0017.985 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_options.table.tmpr4815.gz (1/36/fopen): adding to final database dump
+0017.993 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_options.table.gz (2/36/fopen): adding to final database dump
+0017.995 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_users.table.tmpr2.gz (3/36/fopen): adding to final database dump
+0017.996 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_users.table.gz (4/36/fopen): adding to final database dump
+0017.998 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_usermeta.table.tmpr36.gz (5/36/fopen): adding to final database dump
+0018.000 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_usermeta.table.gz (6/36/fopen): adding to final database dump
+0018.002 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_actions.table.tmpr579.gz (7/36/fopen): adding to final database dump
+0018.003 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_actions.table.gz (8/36/fopen): adding to final database dump
+0018.005 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/36/fopen): adding to final database dump
+0018.006 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_claims.table.gz (10/36/fopen): adding to final database dump
+0018.008 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/36/fopen): adding to final database dump
+0018.009 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_groups.table.gz (12/36/fopen): adding to final database dump
+0018.011 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_logs.table.tmpr1602.gz (13/36/fopen): adding to final database dump
+0018.012 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_actionscheduler_logs.table.gz (14/36/fopen): adding to final database dump
+0018.013 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_commentmeta.table.tmpr0.gz (15/36/fopen): adding to final database dump
+0018.015 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_commentmeta.table.gz (16/36/fopen): adding to final database dump
+0018.017 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_comments.table.tmpr3.gz (17/36/fopen): adding to final database dump
+0018.019 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_comments.table.gz (18/36/fopen): adding to final database dump
+0018.020 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_links.table.tmpr0.gz (19/36/fopen): adding to final database dump
+0018.022 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_links.table.gz (20/36/fopen): adding to final database dump
+0018.023 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_postmeta.table.tmpr1636.gz (21/36/fopen): adding to final database dump
+0018.028 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_postmeta.table.gz (22/36/fopen): adding to final database dump
+0018.030 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_posts.table.tmpr1567.gz (23/36/fopen): adding to final database dump
+0018.038 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_posts.table.gz (24/36/fopen): adding to final database dump
+0018.040 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_term_relationships.table.tmpr100001.gz (25/36/fopen): adding to final database dump
+0018.042 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_term_relationships.table.gz (26/36/fopen): adding to final database dump
+0018.043 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_term_taxonomy.table.tmpr12.gz (27/36/fopen): adding to final database dump
+0018.045 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_term_taxonomy.table.gz (28/36/fopen): adding to final database dump
+0018.046 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_termmeta.table.tmpr11.gz (29/36/fopen): adding to final database dump
+0018.047 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_termmeta.table.gz (30/36/fopen): adding to final database dump
+0018.049 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_terms.table.tmpr12.gz (31/36/fopen): adding to final database dump
+0018.051 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_terms.table.gz (32/36/fopen): adding to final database dump
+0018.053 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_cache.table.tmpr36.gz (33/36/fopen): adding to final database dump
+0018.054 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_cache.table.gz (34/36/fopen): adding to final database dump
+0018.056 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.tmpr0.gz (35/36/fopen): adding to final database dump
+0018.057 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_crawl_cleanup_blocked_args.table.gz (36/36/fopen): adding to final database dump
+0018.058 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_crawl_cleanup_logs.table.tmpr0.gz (37/36/fopen): adding to final database dump
+0018.060 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_crawl_cleanup_logs.table.gz (38/36/fopen): adding to final database dump
+0018.061 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_notifications.table.tmpr4.gz (39/36/fopen): adding to final database dump
+0018.063 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_notifications.table.gz (40/36/fopen): adding to final database dump
+0018.064 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_posts.table.tmpr75.gz (41/36/fopen): adding to final database dump
+0018.065 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_aioseo_posts.table.gz (42/36/fopen): adding to final database dump
+0018.067 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_e_events.table.tmpr0.gz (43/36/fopen): adding to final database dump
+0018.069 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_e_events.table.gz (44/36/fopen): adding to final database dump
+0018.070 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_analytics_inspections.table.tmpr0.gz (45/36/fopen): adding to final database dump
+0018.071 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_analytics_inspections.table.gz (46/36/fopen): adding to final database dump
+0018.073 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_analytics_objects.table.tmpr12.gz (47/36/fopen): adding to final database dump
+0018.074 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_analytics_objects.table.gz (48/36/fopen): adding to final database dump
+0018.076 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_internal_links.table.tmpr0.gz (49/36/fopen): adding to final database dump
+0018.077 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_internal_links.table.gz (50/36/fopen): adding to final database dump
+0018.078 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_internal_meta.table.tmpr0.gz (51/36/fopen): adding to final database dump
+0018.080 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_rank_math_internal_meta.table.gz (52/36/fopen): adding to final database dump
+0018.081 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_slim_seo_404.table.tmpr9.gz (53/36/fopen): adding to final database dump
+0018.083 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_slim_seo_404.table.gz (54/36/fopen): adding to final database dump
+0018.085 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_logs.table.tmpr0.gz (55/36/fopen): adding to final database dump
+0018.086 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_logs.table.gz (56/36/fopen): adding to final database dump
+0018.087 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (57/36/fopen): adding to final database dump
+0018.089 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_payment_meta.table.gz (58/36/fopen): adding to final database dump
+0018.090 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_payments.table.tmpr0.gz (59/36/fopen): adding to final database dump
+0018.092 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_payments.table.gz (60/36/fopen): adding to final database dump
+0018.093 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_tasks_meta.table.tmpr9.gz (61/36/fopen): adding to final database dump
+0018.094 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_wpforms_tasks_meta.table.gz (62/36/fopen): adding to final database dump
+0018.096 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_indexable.table.tmpr29.gz (63/36/fopen): adding to final database dump
+0018.098 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_indexable.table.gz (64/36/fopen): adding to final database dump
+0018.100 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (65/36/fopen): adding to final database dump
+0018.102 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_indexable_hierarchy.table.gz (66/36/fopen): adding to final database dump
+0018.103 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_migrations.table.tmpr25.gz (67/36/fopen): adding to final database dump
+0018.104 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_migrations.table.gz (68/36/fopen): adding to final database dump
+0018.106 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_primary_term.table.tmpr0.gz (69/36/fopen): adding to final database dump
+0018.109 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_primary_term.table.gz (70/36/fopen): adding to final database dump
+0018.110 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_seo_links.table.tmpr46.gz (71/36/fopen): adding to final database dump
+0018.112 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db-table-wp_yoast_seo_links.table.gz (72/36/fopen): adding to final database dump
+0018.117 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db.gz: finished writing out complete database file (1335.9 KB)
+0018.140 (0) Total database tables backed up: 36 (backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db.gz, size: 1368054, sha1: ff547759c92bf40b4dcb523a9ce03e7ea971f7cf, sha256: 0384bb93e8ba34d2cb9e62cd45b4caec9d40eacaf3f3a5da178a59b7c75dfa3c)
+0018.147 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-plugins.zip: plugins: This file has already been successfully uploaded
+0018.149 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-themes.zip: themes: This file has already been successfully uploaded
+0018.150 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-uploads.zip: uploads: This file has already been successfully uploaded
+0018.152 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0018.153 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-others.zip: others: This file has already been successfully uploaded
+0018.154 (0) backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0018.155 (0) Saving backup history. Total backup size: 72.7 MB
+0018.159 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0018.163 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0018.165 (0) No remote despatch: user chose no remote backup service
+0018.166 (0) Recording as successfully uploaded: backup_2024-08-03-2033_FlipByte_Digital_Technology_efc75270425f-db.gz
+0018.171 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0018.173 (0) Number of backup sets in history: 1; groups (db): 1
+0018.174 (0) Examining (for databases) backup set with group_id=0, nonce=efc75270425f, datestamp=1722691985 (Aug 03 2024 13:33:05)
+0018.175 (0) This backup set is the backup set just made, so will not be deleted.
+0018.175 (0) Number of backup sets in history: 1; groups (files): 1
+0018.177 (0) Examining (for files) backup set with nonce=efc75270425f, datestamp=1722691985 (Aug 03 2024 13:33:05)
+0018.177 (0) This backup set is the backup set just made, so will not be deleted.
+0018.178 (0) This backup set is the backup set just made, so will not be deleted.
+0018.178 (0) This backup set is the backup set just made, so will not be deleted.
+0018.178 (0) This backup set is the backup set just made, so will not be deleted.
+0018.178 (0) This backup set is the backup set just made, so will not be deleted.
+0018.178 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0018.179 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0018.183 (0) Resume backup (efc75270425f, 0): finish run
+0018.188 (0) Decremented the semaphore (fd) by 1
+0018.191 (0) Semaphore (fd) unlocked
+0018.192 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0018.197 (0) No email will/can be sent - the user has not configured an email address.
+0018.198 (0) The backup succeeded and is now complete
